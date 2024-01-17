@@ -1,5 +1,5 @@
 # 8Week-SQL-Challenges
-This respository serves as the solutions to Danny Ma SQL challenges from the #8WeekSQLChallenge. I decided to take on this challenge and test my SQL skills. With this being my first SQL project, I am very happy with the results. These are my own unique solutions and if there is any suggestions please feel free to open a pull request.  
+This respository serves as the solutions to @Danny Ma SQL challenges from the #8WeekSQLChallenge. I decided to take on this challenge and test my SQL skills. With this being my first SQL project, I am very happy with the results. These are my own unique solutions and if there is any suggestions please feel free to open a pull request.  
 
 This project showcases my ability to tackle SQL problems and showcases my proficeincy in SQL query writing 
 
