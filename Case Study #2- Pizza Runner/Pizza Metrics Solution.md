@@ -136,8 +136,8 @@ SELECT COUNT(pizza_id) AS total_pizzas, exclusions, extras
 FROM customer_orders AS c
 JOIN runner_orders ON c.order_id = runner_orders.order_id
 WHERE 
-pickup_time <> 'null' AND exclusions <> 'null' AND exclusions <> ''
-AND extras <> 'null' AND extras <> ''
+pickup_time <> 'null' AND exclusions NOT IN( 'null' , '')
+AND extras NOT IN ('null', '')
 GROUP BY exclusions, extras;
 ```
 **Solution** 
