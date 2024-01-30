@@ -74,5 +74,5 @@ This is how the clean `customer_orders` table looks like:
 [Download CSV](https://github.com/Zoe-iyawa/8Week-SQL-Challenge/blob/main/Case%20Study%20%232-%20Pizza%20Runner/new_customer_orders.csv)
 
 
-This is how the clean `runner_orders` table looks like.
-[Download CSV](
+This is how the clean `runner_orders` table looks like:
+[Download CSV](https://github.com/Zoe-iyawa/8Week-SQL-Challenge/blob/main/Case%20Study%20%232-%20Pizza%20Runner/new_runners_orders.csv)
