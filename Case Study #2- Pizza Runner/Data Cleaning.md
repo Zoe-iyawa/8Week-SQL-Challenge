@@ -70,8 +70,9 @@ MODIFY COLUMN distance FLOAT,
 MODIFY COLUMN duration INTEGER;
 ```
 
-This is how the clean `customer_orders` table looks like.
-![image](
+This is how the clean `customer_orders` table looks like:
+[Download CSV](https://github.com/Zoe-iyawa/8Week-SQL-Challenge/blob/main/Case%20Study%20%232-%20Pizza%20Runner/new_customer_orders.csv)
 
 
 This is how the clean `runner_orders` table looks like.
+[Download CSV](
